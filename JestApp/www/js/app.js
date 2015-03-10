@@ -17,3 +17,8 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+var names = [{name: 'Jerry'},
+            {name: 'Kerry'},
+            {name: 'Perry'},
+            {name: 'Terry'}];
